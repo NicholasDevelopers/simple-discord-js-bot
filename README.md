@@ -1,1 +1,2 @@
-# simple-discord-js-bot
+npm init -y
+npm install discord.js
